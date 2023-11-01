@@ -1,0 +1,88 @@
+.list-group-item {
+    border:none;
+}
+
+.navlist{
+    margin-bottom: 0px;
+}
+.custom-header {
+    margin:0px;
+    border-bottom: 1px solid #707070;
+    padding-top: 80px;
+}
+
+.custom-button{
+    background: #1492E6 0% 0% no-repeat padding-box;
+    box-shadow: 0px 16px 48px #00000029;
+    border-radius: 33px;
+    opacity: 1;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.row{
+    margin-top: 100px;
+}
+.center-h2 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#flower{
+    padding-right: 20px;
+}
+.space
+{
+    padding-top: 200px;
+    padding-bottom: 100px;
+} 
+
+
+
+
+#flower-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#image7{
+    width: 300px;
+    height: 250x;
+}
+
+#footer{
+    padding-top: 250px;
+    height:300px;
+    width: 100%;
+    background-color: #333; 
+    color: #fff; 
+    text-align: center;
+}
+
+.removePadding{
+    margin-top: -100px;
+}
+.stars{
+    float:left;
+    height:15px;
+    width:15px;
+}
+.pics{
+    height:43px;
+    width:43px;
+}
+.paragraph{
+    margin-top: 10px;
+}
+.rating{
+    margin-top: 10px;
+}
+.paddingbox{
+    margin-top: 10px;
+}
+.boxes{
+    width: 290px; 
+    height: 280px; 
+  border-radius: 20px;
+}
+
